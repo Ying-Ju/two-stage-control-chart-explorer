@@ -39,5 +39,11 @@ Key contributions include:
 │   
 │
 └── README.md
+```
+
+---
+## 📜 License
+
+This project is licensed under the MIT License.
 
 [^costa]: Costa, A. F. B., & De Magalhães, M. S. (2005). *Economics*, 95(1), 9–20.

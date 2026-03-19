@@ -37,8 +37,7 @@ Key contributions include:
 │   ├── app.R
 │   └── www/
 │
-├── results/
-│   ├── tables/
-│   └── figures/
+├── figures/
+│   
 │
 └── README.md

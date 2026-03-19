@@ -18,7 +18,7 @@ Key contributions include:
 - Analysis of **cross-chart correlation under skewness**
 - Comparison with **two-stage normal charts***[^costa]
 * Costa, A. F., & De Magalhães, M. S. (2005). Economics, 95(1), 9-20.
-[^costa]: Costa, A. F. B., & De Magalhães, M. S. (2005). *Economics*, 95(1), 9–20.
+
 
 ---
 
@@ -41,3 +41,5 @@ Key contributions include:
 │   
 │
 └── README.md
+
+[^costa]: Costa, A. F. B., & De Magalhães, M. S. (2005). *Economics*, 95(1), 9–20.

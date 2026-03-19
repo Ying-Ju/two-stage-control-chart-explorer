@@ -16,7 +16,7 @@ Key contributions include:
 - A **bivariate skew-normal modeling framework**
 - Economic design of **two-stage control charts**
 - Analysis of **cross-chart correlation under skewness**
-- Comparison with **two-stage normal charts***[^costa]
+- Comparison with **two-stage normal charts**[^costa]
 
 ---
 

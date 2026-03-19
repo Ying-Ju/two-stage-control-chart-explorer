@@ -17,8 +17,6 @@ Key contributions include:
 - Economic design of **two-stage control charts**
 - Analysis of **cross-chart correlation under skewness**
 - Comparison with **two-stage normal charts***[^costa]
-* Costa, A. F., & De Magalhães, M. S. (2005). Economics, 95(1), 9-20.
-
 
 ---
 

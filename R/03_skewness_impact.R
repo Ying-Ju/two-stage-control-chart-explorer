@@ -1,6 +1,6 @@
 # Load required libraries
 pacman::p_load(patchwork, tidyverse, DEoptim, sn)
-source("all_functions.R")
+source("00_all_functions.R")
 
 df <- data.frame(
   beta1 = rep(c(1, 3, 5, 7), 4),

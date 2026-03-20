@@ -1,5 +1,5 @@
 pacman::p_load(patchwork, tidyverse, DEoptim, sn)
-source("all_functions.R")
+source("00_all_functions.R")
 
 res_sim <- exp_income_skew(
   nx = 5, ny = 3,
